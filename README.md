@@ -27,6 +27,7 @@ The structure of the config.json file should look like this:
 ```
 
 Example config.json
+
 If you have the JIDT library located in your home directory under /Users/username/, your config.json should look something like this:
 ```json
 {
