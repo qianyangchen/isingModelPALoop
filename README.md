@@ -50,4 +50,5 @@ Troubleshooting
 FileNotFoundError: If you encounter this error, double-check the paths in the config.json file. Ensure the infodynamics_path and jar_location point to the correct files and directories.
 
 ## License
-Include any relevant licensing information for your project here.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
