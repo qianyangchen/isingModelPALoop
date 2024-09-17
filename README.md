@@ -43,10 +43,7 @@ jupyter notebook
 ```
 Ensure that the paths in your config.json file point to the correct locations where you have stored the necessary resources.
 
-## Notes
-Do not share your config.json file publicly or include it in version control (e.g., GitHub). It's meant to store sensitive or local path information that should remain private.
-If you're collaborating on this project, provide a template for the config.json file and ensure other users update it with their local paths.
-Troubleshooting
+## Troubleshooting
 FileNotFoundError: If you encounter this error, double-check the paths in the config.json file. Ensure the infodynamics_path and jar_location point to the correct files and directories.
 
 ## License
