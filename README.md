@@ -61,6 +61,7 @@ While developing this Ising model simulation, I referred to the following resour
    
 I would like to acknowledge and give credit to these resources as they provided valuable insights and inspiration for the implementation of the Ising model simulation.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13771379.svg)](https://doi.org/10.5281/zenodo.13771379)
 
 ## License
 
