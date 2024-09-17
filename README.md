@@ -1,11 +1,11 @@
-# Project Title
-This project contains code that uses the JIDT library to run various information-theoretic computations. Some file paths in the code need to be customised based on your system setup.
+# Ising model as Perception-Action Loop
+This project contains code that uses the JIDT library to run various information-theoretic computations. Please follow the instructions on [JIDT home page](https://github.com/jlizier/jidt) to install the package. Some file paths in the code need to be customised based on your system setup.
 
 ## Setup Instructions
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/qianyangchen/isingmodelPALoop.git
 ```
 
 ### Step 2: Install Dependencies
