@@ -46,6 +46,22 @@ Ensure that the paths in your config.json file point to the correct locations wh
 ## Troubleshooting
 FileNotFoundError: If you encounter this error, double-check the paths in the config.json file. Ensure the infodynamics_path and jar_location point to the correct files and directories.
 
+## References and Acknowledgments
+
+While developing this Ising model simulation, I referred to the following resources:
+
+1. **Luke Polson's YouTube Channel Notebook**: 
+   - *Python Metaphysics Series, Ising Model Simulation* (Notebook). Available at: [https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid14.ipynb](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid14.ipynb)
+
+2. **Rajesh Rinet's Blog**: 
+   - Rajesh Rinet, *Ising Model Simulation*. Available at: [https://rajeshrinet.github.io/blog/2014/ising-model/](https://rajeshrinet.github.io/blog/2014/ising-model/)
+
+3. **NetLogo Ising Model**:
+   - Wilensky, U. (2003). *NetLogo Ising model*. Available at: [http://ccl.northwestern.edu/netlogo/models/Ising](http://ccl.northwestern.edu/netlogo/models/Ising). Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
+   
+I would like to acknowledge and give credit to these resources as they provided valuable insights and inspiration for the implementation of the Ising model simulation.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
